@@ -1,0 +1,5 @@
+#!/bin/bash
+static app &
+nodemon -w app -i app/build -e jsx build.js
+
+
