@@ -1,8 +1,7 @@
 {
-  "name": "react-sandbox",
+  "name": "thinking-in-react",
   "version": "0.0.0",
-  "description": "",
-  "main": "main.js",
+  "description": "The 'Thinking in React' tutorial written in ES6 with a small toolchain",
   "scripts": {
     "build": "node build.js",
     "dev": "./scripts/run-dev",
