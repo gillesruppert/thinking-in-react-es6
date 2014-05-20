@@ -1,7 +1,7 @@
 module React from 'react';
 
 class _ProductRow {
-  render () {
+  render() {
     var name = this.props.product.stocked ?
       this.props.product.name :
       <span style={{color: 'red'}}>
